@@ -1,0 +1,25 @@
+
+RELATÓRIO EDA - IMPACTO DO VAR (2016-2024)
+==========================================
+
+DADOS:
+------
+Total de registros: 160
+Pré-VAR (2016-2019): 60 registros
+Com VAR (2019-2024): 100 registros
+
+COMPARAÇÃO MÉDIAS:
+------------------
+Cartões Amarelos/90min:
+  Pré-VAR: 1.7583
+  Com VAR: 1.8716
+  Variação: 6.44%
+
+Cartões Vermelhos/90min:
+  Pré-VAR: 0.0724
+  Com VAR: 0.0879
+  Variação: 21.45%
+
+CONCLUSÃO:
+----------
+O VAR teve impacto moderado nas marcações, especialmente em cartões vermelhos.

@@ -1,0 +1,28 @@
+
+RELATÓRIO EDA - GOLEIROS PREMIER LEAGUE (2005-2020)
+====================================================
+
+DADOS:
+------
+Total de goleiros: 111
+Goleiros com altura: 111
+
+ESTATÍSTICAS DESCRITIVAS:
+-------------------------
+Altura média: 190.7 cm
+Altura mínima: 182 cm
+Altura máxima: 203 cm
+
+Save% médio: 70.76%
+Clean Sheet% médio: 25.96%
+Gols/90min médio: 1.46
+
+CORRELAÇÃO ALTURA × PERFORMANCE:
+---------------------------------
+Altura × Save%: 0.0654
+Interpretação: Correlação muito fraca (próxima de zero)
+
+CONCLUSÃO:
+----------
+Não há correlação significativa entre altura e performance de goleiros.
+A altura não é um preditor relevante de Save% na Premier League.

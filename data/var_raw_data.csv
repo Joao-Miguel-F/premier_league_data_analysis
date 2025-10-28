@@ -1,0 +1,161 @@
+league,season,team,players_used,90s,yellow_cards,red_cards,second_yellow_red,fouls_committed,fouls_drawn,penalties_won,penalties_conceded,season_year,var_period,total_red_cards,yellow_cards_per_90,red_cards_per_90,penalties_won_per_90,penalties_conceded_per_90,fouls_committed_per_90
+ENG-Premier League,1617,Arsenal,29,38,69,0,0,394,390,4,10,1617,Pré-VAR,0,1.82,0.00,0.11,0.26,10.37
+ENG-Premier League,1617,Bournemouth,27,38,56,2,2,372,492,11,4,1617,Pré-VAR,4,1.47,0.11,0.29,0.11,9.79
+ENG-Premier League,1617,Burnley,27,38,67,1,1,428,415,4,5,1617,Pré-VAR,2,1.76,0.05,0.11,0.13,11.26
+ENG-Premier League,1617,Chelsea,24,38,72,0,0,394,474,4,2,1617,Pré-VAR,0,1.89,0.00,0.11,0.05,10.37
+ENG-Premier League,1617,Crystal Palace,31,38,79,0,0,471,470,6,2,1617,Pré-VAR,0,2.08,0.00,0.16,0.05,12.39
+ENG-Premier League,1617,Everton,27,38,74,1,1,457,419,3,5,1617,Pré-VAR,2,1.95,0.05,0.08,0.13,12.03
+ENG-Premier League,1617,Hull City,28,38,67,0,0,403,390,2,14,1617,Pré-VAR,0,1.76,0.00,0.05,0.37,10.61
+ENG-Premier League,1617,Leicester City,25,38,73,0,0,447,332,5,4,1617,Pré-VAR,0,1.92,0.00,0.13,0.11,11.76
+ENG-Premier League,1617,Liverpool,23,38,54,0,0,396,383,5,5,1617,Pré-VAR,0,1.42,0.00,0.13,0.13,10.42
+ENG-Premier League,1617,Manchester City,25,38,71,0,0,395,427,9,5,1617,Pré-VAR,0,1.87,0.00,0.24,0.13,10.39
+ENG-Premier League,1617,Manchester Utd,31,38,80,1,1,498,443,2,5,1617,Pré-VAR,2,2.11,0.05,0.05,0.13,13.11
+ENG-Premier League,1617,Middlesbrough,27,38,79,1,1,480,399,2,5,1617,Pré-VAR,2,2.08,0.05,0.05,0.13,12.63
+ENG-Premier League,1617,Southampton,26,38,61,1,1,426,415,5,9,1617,Pré-VAR,2,1.61,0.05,0.13,0.24,11.21
+ENG-Premier League,1617,Stoke City,26,38,72,1,1,434,440,5,2,1617,Pré-VAR,2,1.89,0.05,0.13,0.05,11.42
+ENG-Premier League,1617,Sunderland,31,38,84,3,3,437,392,3,4,1617,Pré-VAR,6,2.21,0.16,0.08,0.11,11.50
+ENG-Premier League,1617,Swansea City,27,38,56,0,0,399,425,3,10,1617,Pré-VAR,0,1.47,0.00,0.08,0.26,10.50
+ENG-Premier League,1617,Tottenham,24,38,62,0,0,431,463,9,2,1617,Pré-VAR,0,1.63,0.00,0.24,0.05,11.34
+ENG-Premier League,1617,Watford,33,38,90,3,3,514,417,3,4,1617,Pré-VAR,6,2.37,0.16,0.08,0.11,13.53
+ENG-Premier League,1617,West Brom,23,38,80,0,0,448,343,0,3,1617,Pré-VAR,0,2.11,0.00,0.00,0.08,11.79
+ENG-Premier League,1617,West Ham,29,38,86,4,4,408,461,4,8,1617,Pré-VAR,8,2.26,0.21,0.11,0.21,10.74
+ENG-Premier League,1819,Arsenal,28,38,74,2,1,412,455,4,7,1819,Pré-VAR,3,1.95,0.08,0.11,0.18,10.84
+ENG-Premier League,1819,Bournemouth,28,38,60,1,0,340,441,8,5,1819,Pré-VAR,1,1.58,0.03,0.21,0.13,8.95
+ENG-Premier League,1819,Brighton,21,38,62,4,1,463,301,5,10,1819,Pré-VAR,5,1.63,0.13,0.13,0.26,12.18
+ENG-Premier League,1819,Burnley,23,38,75,1,0,360,356,1,3,1819,Pré-VAR,1,1.97,0.03,0.03,0.08,9.47
+ENG-Premier League,1819,Cardiff City,25,38,66,1,0,374,390,2,7,1819,Pré-VAR,1,1.74,0.03,0.05,0.18,9.84
+ENG-Premier League,1819,Chelsea,24,38,49,0,0,339,424,5,2,1819,Pré-VAR,0,1.29,0.00,0.13,0.05,8.92
+ENG-Premier League,1819,Crystal Palace,26,38,59,2,1,386,391,10,5,1819,Pré-VAR,3,1.55,0.08,0.26,0.13,10.16
+ENG-Premier League,1819,Everton,23,38,57,4,1,432,418,4,5,1819,Pré-VAR,5,1.50,0.13,0.11,0.13,11.37
+ENG-Premier League,1819,Fulham,28,38,72,2,2,423,342,2,7,1819,Pré-VAR,4,1.89,0.11,0.05,0.18,11.13
+ENG-Premier League,1819,Huddersfield,31,38,57,4,1,420,370,1,9,1819,Pré-VAR,5,1.50,0.13,0.03,0.24,11.05
+ENG-Premier League,1819,Leicester City,25,38,63,5,3,351,378,6,5,1819,Pré-VAR,8,1.66,0.21,0.16,0.13,9.24
+ENG-Premier League,1819,Liverpool,23,38,41,2,2,315,347,7,1,1819,Pré-VAR,4,1.08,0.11,0.18,0.03,8.29
+ENG-Premier League,1819,Manchester City,21,38,44,1,0,328,301,4,4,1819,Pré-VAR,1,1.16,0.03,0.11,0.11,8.63
+ENG-Premier League,1819,Manchester Utd,28,38,77,4,2,433,397,11,6,1819,Pré-VAR,6,2.03,0.16,0.29,0.16,11.39
+ENG-Premier League,1819,Newcastle Utd,24,38,57,2,0,423,332,2,6,1819,Pré-VAR,2,1.50,0.05,0.05,0.16,11.13
+ENG-Premier League,1819,Southampton,30,38,75,3,2,420,341,4,3,1819,Pré-VAR,5,1.97,0.13,0.11,0.08,11.05
+ENG-Premier League,1819,Tottenham,28,38,58,3,1,376,364,3,5,1819,Pré-VAR,4,1.53,0.11,0.08,0.13,9.89
+ENG-Premier League,1819,Watford,25,38,80,4,1,433,382,1,5,1819,Pré-VAR,5,2.11,0.13,0.03,0.13,11.39
+ENG-Premier League,1819,West Ham,26,38,59,1,0,331,388,5,5,1819,Pré-VAR,1,1.55,0.03,0.13,0.13,8.71
+ENG-Premier League,1819,Wolves,21,38,73,1,0,409,325,4,4,1819,Pré-VAR,1,1.92,0.03,0.11,0.11,10.76
+ENG-Premier League,1920,Arsenal,29,38,88,5,1,421,437,2,8,1920,Pré-VAR,6,2.32,0.16,0.05,0.21,11.08
+ENG-Premier League,1920,Aston Villa,28,38,70,1,1,451,525,2,6,1920,Pré-VAR,2,1.84,0.05,0.05,0.16,11.87
+ENG-Premier League,1920,Bournemouth,27,38,78,3,2,369,388,2,6,1920,Pré-VAR,5,2.05,0.13,0.05,0.16,9.71
+ENG-Premier League,1920,Brighton,25,38,59,2,1,386,325,2,2,1920,Pré-VAR,3,1.55,0.08,0.05,0.05,10.16
+ENG-Premier League,1920,Burnley,22,38,67,0,0,412,369,1,5,1920,Pré-VAR,0,1.76,0.00,0.03,0.13,10.84
+ENG-Premier League,1920,Chelsea,27,38,60,0,0,386,384,6,2,1920,Pré-VAR,0,1.58,0.00,0.16,0.05,10.16
+ENG-Premier League,1920,Crystal Palace,25,38,62,2,0,424,479,2,1,1920,Pré-VAR,2,1.63,0.05,0.05,0.03,11.16
+ENG-Premier League,1920,Everton,24,38,76,3,3,472,394,0,4,1920,Pré-VAR,6,2.00,0.16,0.00,0.11,12.42
+ENG-Premier League,1920,Leicester City,24,38,43,3,1,418,444,6,10,1920,Pré-VAR,4,1.13,0.11,0.16,0.26,11.00
+ENG-Premier League,1920,Liverpool,24,38,38,1,0,331,293,4,1,1920,Pré-VAR,1,1.00,0.03,0.11,0.03,8.71
+ENG-Premier League,1920,Manchester City,24,38,64,4,2,362,296,10,3,1920,Pré-VAR,6,1.68,0.16,0.26,0.08,9.53
+ENG-Premier League,1920,Manchester Utd,29,38,73,0,0,423,427,12,3,1920,Pré-VAR,0,1.92,0.00,0.32,0.08,11.13
+ENG-Premier League,1920,Newcastle Utd,28,38,66,3,0,370,423,0,2,1920,Pré-VAR,3,1.74,0.08,0.00,0.05,9.74
+ENG-Premier League,1920,Norwich City,30,38,68,3,0,363,430,1,7,1920,Pré-VAR,3,1.79,0.08,0.03,0.18,9.55
+ENG-Premier League,1920,Sheffield Utd,26,38,63,2,1,412,306,1,3,1920,Pré-VAR,3,1.66,0.08,0.03,0.08,10.84
+ENG-Premier League,1920,Southampton,25,38,55,4,1,450,388,4,4,1920,Pré-VAR,5,1.45,0.13,0.11,0.11,11.84
+ENG-Premier League,1920,Tottenham,29,38,84,3,1,423,424,4,7,1920,Pré-VAR,4,2.21,0.11,0.11,0.18,11.13
+ENG-Premier League,1920,Watford,26,38,80,3,2,481,342,7,9,1920,Pré-VAR,5,2.11,0.13,0.18,0.24,12.66
+ENG-Premier League,1920,West Ham,29,38,64,1,1,387,345,3,6,1920,Pré-VAR,2,1.68,0.05,0.08,0.16,10.18
+ENG-Premier League,1920,Wolves,21,38,61,2,2,407,360,4,3,1920,Pré-VAR,4,1.61,0.11,0.11,0.08,10.71
+ENG-Premier League,2021,Arsenal,29,38,49,5,1,346,400,5,3,2021,Com VAR,6,1.29,0.16,0.13,0.08,9.11
+ENG-Premier League,2021,Aston Villa,24,38,71,4,4,439,553,6,6,2021,Com VAR,8,1.87,0.21,0.16,0.16,11.55
+ENG-Premier League,2021,Brighton,27,38,49,6,2,428,357,7,7,2021,Com VAR,8,1.29,0.21,0.18,0.18,11.26
+ENG-Premier League,2021,Burnley,25,38,48,0,0,384,389,3,3,2021,Com VAR,0,1.26,0.00,0.08,0.08,10.11
+ENG-Premier League,2021,Chelsea,27,38,51,3,1,433,364,10,4,2021,Com VAR,4,1.34,0.11,0.26,0.11,11.39
+ENG-Premier League,2021,Crystal Palace,24,38,56,2,1,409,436,2,4,2021,Com VAR,3,1.47,0.08,0.05,0.11,10.76
+ENG-Premier League,2021,Everton,29,38,59,2,0,386,392,4,4,2021,Com VAR,2,1.55,0.05,0.11,0.11,10.16
+ENG-Premier League,2021,Fulham,28,38,67,3,0,484,372,5,7,2021,Com VAR,3,1.76,0.08,0.13,0.18,12.74
+ENG-Premier League,2021,Leeds United,23,38,61,1,0,432,410,3,9,2021,Com VAR,1,1.61,0.03,0.08,0.24,11.37
+ENG-Premier League,2021,Leicester City,27,38,61,0,0,413,421,11,4,2021,Com VAR,0,1.61,0.00,0.29,0.11,10.87
+ENG-Premier League,2021,Liverpool,28,38,40,0,0,396,316,4,8,2021,Com VAR,0,1.05,0.00,0.11,0.21,10.42
+ENG-Premier League,2021,Manchester City,24,38,46,2,0,361,372,7,10,2021,Com VAR,2,1.21,0.05,0.18,0.26,9.50
+ENG-Premier League,2021,Manchester Utd,29,38,64,1,0,452,400,9,4,2021,Com VAR,1,1.68,0.03,0.24,0.11,11.89
+ENG-Premier League,2021,Newcastle Utd,27,38,65,3,2,388,420,6,5,2021,Com VAR,5,1.71,0.13,0.16,0.13,10.21
+ENG-Premier League,2021,Sheffield Utd,27,38,73,3,0,459,293,3,4,2021,Com VAR,3,1.92,0.08,0.08,0.11,12.08
+ENG-Premier League,2021,Southampton,29,38,52,3,0,428,421,4,9,2021,Com VAR,3,1.37,0.08,0.11,0.24,11.26
+ENG-Premier League,2021,Tottenham,24,38,57,2,2,440,468,5,10,2021,Com VAR,4,1.50,0.11,0.13,0.26,11.58
+ENG-Premier League,2021,West Brom,30,38,51,4,0,404,412,4,11,2021,Com VAR,4,1.34,0.11,0.11,0.29,10.63
+ENG-Premier League,2021,West Ham,24,38,50,3,1,375,354,3,5,2021,Com VAR,4,1.32,0.11,0.08,0.13,9.87
+ENG-Premier League,2021,Wolves,27,38,55,1,1,426,383,3,8,2021,Com VAR,2,1.45,0.05,0.08,0.21,11.21
+ENG-Premier League,2122,Arsenal,27,38,67,4,3,365,357,6,6,2122,Com VAR,7,1.76,0.18,0.16,0.16,9.61
+ENG-Premier League,2122,Aston Villa,31,38,81,2,1,401,504,2,6,2122,Com VAR,3,2.13,0.08,0.05,0.16,10.55
+ENG-Premier League,2122,Brentford,29,38,65,3,2,371,363,6,5,2122,Com VAR,5,1.71,0.13,0.16,0.13,9.76
+ENG-Premier League,2122,Brighton,26,38,72,2,0,393,355,4,4,2122,Com VAR,2,1.89,0.05,0.11,0.11,10.34
+ENG-Premier League,2122,Burnley,23,38,68,2,0,394,332,2,5,2122,Com VAR,2,1.79,0.05,0.05,0.13,10.37
+ENG-Premier League,2122,Chelsea,26,38,63,1,0,409,392,8,6,2122,Com VAR,1,1.66,0.03,0.21,0.16,10.76
+ENG-Premier League,2122,Crystal Palace,24,38,69,1,1,414,481,6,4,2122,Com VAR,2,1.82,0.05,0.16,0.11,10.89
+ENG-Premier League,2122,Everton,33,38,82,6,2,368,388,7,2,2122,Com VAR,8,2.16,0.21,0.18,0.05,9.68
+ENG-Premier League,2122,Leeds United,29,38,101,3,0,469,368,4,5,2122,Com VAR,3,2.66,0.08,0.11,0.13,12.34
+ENG-Premier League,2122,Leicester City,28,38,55,1,0,356,396,1,9,2122,Com VAR,1,1.45,0.03,0.03,0.24,9.37
+ENG-Premier League,2122,Liverpool,27,38,50,1,0,363,286,5,0,2122,Com VAR,1,1.32,0.03,0.13,0.00,9.55
+ENG-Premier League,2122,Manchester City,26,38,42,1,0,321,330,7,1,2122,Com VAR,1,1.11,0.03,0.18,0.03,8.45
+ENG-Premier League,2122,Manchester Utd,29,38,77,2,1,396,320,3,5,2122,Com VAR,3,2.03,0.08,0.08,0.13,10.42
+ENG-Premier League,2122,Newcastle Utd,29,38,81,2,1,392,366,1,6,2122,Com VAR,3,2.13,0.08,0.03,0.16,10.32
+ENG-Premier League,2122,Norwich City,28,38,57,1,1,356,431,2,12,2122,Com VAR,2,1.50,0.05,0.05,0.32,9.37
+ENG-Premier League,2122,Southampton,25,38,65,2,1,402,363,4,2,2122,Com VAR,3,1.71,0.08,0.11,0.05,10.58
+ENG-Premier League,2122,Tottenham,25,38,69,1,1,386,406,3,2,2122,Com VAR,2,1.82,0.05,0.08,0.05,10.16
+ENG-Premier League,2122,Watford,30,38,63,3,3,442,352,2,7,2122,Com VAR,6,1.66,0.16,0.05,0.18,11.63
+ENG-Premier League,2122,West Ham,25,38,52,3,2,323,276,3,6,2122,Com VAR,5,1.37,0.13,0.08,0.16,8.50
+ENG-Premier League,2122,Wolves,26,38,62,2,2,366,335,1,10,2122,Com VAR,4,1.63,0.11,0.03,0.26,9.63
+ENG-Premier League,2223,Arsenal,26,38,51,0,0,373,435,3,5,2223,Com VAR,0,1.34,0.00,0.08,0.13,9.82
+ENG-Premier League,2223,Aston Villa,26,38,80,1,0,417,498,4,6,2223,Com VAR,1,2.11,0.03,0.11,0.16,10.97
+ENG-Premier League,2223,Bournemouth,31,38,68,0,0,391,365,0,7,2223,Com VAR,0,1.79,0.00,0.00,0.18,10.29
+ENG-Premier League,2223,Brentford,25,38,57,1,1,354,399,7,2,2223,Com VAR,2,1.50,0.05,0.18,0.05,9.32
+ENG-Premier League,2223,Brighton,29,38,58,0,0,427,407,4,8,2223,Com VAR,0,1.53,0.00,0.11,0.21,11.24
+ENG-Premier League,2223,Chelsea,32,38,81,3,2,397,462,3,1,2223,Com VAR,5,2.13,0.13,0.08,0.03,10.45
+ENG-Premier League,2223,Crystal Palace,26,38,82,3,2,446,479,2,4,2223,Com VAR,5,2.16,0.13,0.05,0.11,11.74
+ENG-Premier League,2223,Everton,28,38,81,2,1,396,382,3,6,2223,Com VAR,3,2.13,0.08,0.08,0.16,10.42
+ENG-Premier League,2223,Fulham,29,38,80,1,0,411,405,8,8,2223,Com VAR,1,2.11,0.03,0.21,0.21,10.82
+ENG-Premier League,2223,Leeds United,29,38,89,3,2,467,405,2,6,2223,Com VAR,5,2.34,0.13,0.05,0.16,12.29
+ENG-Premier League,2223,Leicester City,28,38,63,2,2,410,397,5,5,2223,Com VAR,4,1.66,0.11,0.13,0.13,10.79
+ENG-Premier League,2223,Liverpool,28,38,57,1,0,405,321,3,4,2223,Com VAR,1,1.50,0.03,0.08,0.11,10.66
+ENG-Premier League,2223,Manchester City,24,38,44,1,0,347,384,9,3,2223,Com VAR,1,1.16,0.03,0.24,0.08,9.13
+ENG-Premier League,2223,Manchester Utd,26,38,78,2,0,424,297,2,3,2223,Com VAR,2,2.05,0.05,0.05,0.08,11.16
+ENG-Premier League,2223,Newcastle Utd,27,38,61,1,0,406,399,2,5,2223,Com VAR,1,1.61,0.03,0.05,0.13,10.68
+ENG-Premier League,2223,Nott'ham Forest,33,38,84,0,0,445,390,3,9,2223,Com VAR,0,2.21,0.00,0.08,0.24,11.71
+ENG-Premier League,2223,Southampton,36,38,73,0,0,430,378,3,3,2223,Com VAR,0,1.92,0.00,0.08,0.08,11.32
+ENG-Premier League,2223,Tottenham,29,38,77,3,1,424,353,5,4,2223,Com VAR,4,2.03,0.11,0.13,0.11,11.16
+ENG-Premier League,2223,West Ham,25,38,44,0,0,362,316,6,6,2223,Com VAR,0,1.16,0.00,0.16,0.16,9.53
+ENG-Premier League,2223,Wolves,32,38,85,6,1,463,389,1,4,2223,Com VAR,7,2.24,0.18,0.03,0.11,12.18
+ENG-Premier League,2324,Arsenal,25,38,64,2,1,391,394,9,3,2324,Com VAR,3,1.68,0.08,0.24,0.08,10.29
+ENG-Premier League,2324,Aston Villa,31,38,94,2,0,412,473,4,2,2324,Com VAR,2,2.47,0.05,0.11,0.05,10.84
+ENG-Premier League,2324,Bournemouth,30,38,79,3,0,507,376,3,7,2324,Com VAR,3,2.08,0.08,0.08,0.18,13.34
+ENG-Premier League,2324,Brentford,28,38,89,2,0,385,419,3,2,2324,Com VAR,2,2.34,0.05,0.08,0.05,10.13
+ENG-Premier League,2324,Brighton,30,38,90,3,0,414,454,6,6,2324,Com VAR,3,2.37,0.08,0.16,0.16,10.89
+ENG-Premier League,2324,Burnley,31,38,77,7,3,429,353,3,7,2324,Com VAR,10,2.03,0.26,0.08,0.18,11.29
+ENG-Premier League,2324,Chelsea,32,38,109,4,2,446,451,11,5,2324,Com VAR,6,2.87,0.16,0.29,0.13,11.74
+ENG-Premier League,2324,Crystal Palace,26,38,73,2,2,457,427,4,3,2324,Com VAR,4,1.92,0.11,0.11,0.08,12.03
+ENG-Premier League,2324,Everton,26,38,82,1,1,457,361,2,8,2324,Com VAR,2,2.16,0.05,0.05,0.21,12.03
+ENG-Premier League,2324,Fulham,25,38,84,4,3,384,364,2,8,2324,Com VAR,7,2.21,0.18,0.05,0.21,10.11
+ENG-Premier League,2324,Liverpool,30,38,69,5,2,463,376,8,1,2324,Com VAR,7,1.82,0.18,0.21,0.03,12.18
+ENG-Premier League,2324,Luton Town,28,38,71,0,0,443,448,2,4,2324,Com VAR,0,1.87,0.00,0.05,0.11,11.66
+ENG-Premier League,2324,Manchester City,25,38,53,2,1,289,410,8,3,2324,Com VAR,3,1.39,0.08,0.21,0.08,7.61
+ENG-Premier League,2324,Manchester Utd,31,38,83,1,1,401,340,6,7,2324,Com VAR,2,2.18,0.05,0.16,0.18,10.55
+ENG-Premier League,2324,Newcastle Utd,32,38,79,1,1,386,469,9,5,2324,Com VAR,2,2.08,0.05,0.24,0.13,10.16
+ENG-Premier League,2324,Nott'ham Forest,33,38,82,3,2,428,371,1,4,2324,Com VAR,5,2.16,0.13,0.03,0.11,11.26
+ENG-Premier League,2324,Sheffield Utd,35,38,101,5,3,423,318,3,7,2324,Com VAR,8,2.66,0.21,0.08,0.18,11.13
+ENG-Premier League,2324,Tottenham,29,38,92,4,2,425,510,2,7,2324,Com VAR,6,2.42,0.16,0.05,0.18,11.18
+ENG-Premier League,2324,West Ham,26,38,82,3,3,390,392,4,10,2324,Com VAR,6,2.16,0.16,0.11,0.26,10.26
+ENG-Premier League,2324,Wolves,27,38,102,4,2,476,405,4,8,2324,Com VAR,6,2.68,0.16,0.11,0.21,12.53
+ENG-Premier League,2425,Arsenal,25,38,70,6,3,401,405,2,3,2425,Com VAR,9,1.84,0.24,0.05,0.08,10.55
+ENG-Premier League,2425,Aston Villa,28,38,76,4,2,406,499,6,3,2425,Com VAR,6,2.00,0.16,0.16,0.08,10.68
+ENG-Premier League,2425,Bournemouth,29,38,97,3,0,525,400,7,4,2425,Com VAR,3,2.55,0.08,0.18,0.11,13.82
+ENG-Premier League,2425,Brentford,28,38,62,1,0,320,339,6,1,2425,Com VAR,1,1.63,0.03,0.16,0.03,8.42
+ENG-Premier League,2425,Brighton,32,38,78,3,2,438,411,6,9,2425,Com VAR,5,2.05,0.13,0.16,0.24,11.53
+ENG-Premier League,2425,Chelsea,29,38,101,2,1,436,444,5,6,2425,Com VAR,3,2.66,0.08,0.13,0.16,11.47
+ENG-Premier League,2425,Crystal Palace,29,38,80,4,3,417,403,4,2,2425,Com VAR,7,2.11,0.18,0.11,0.05,10.97
+ENG-Premier League,2425,Everton,26,38,82,2,1,430,384,1,2,2425,Com VAR,3,2.16,0.08,0.03,0.05,11.32
+ENG-Premier League,2425,Fulham,26,38,80,2,0,432,359,3,4,2425,Com VAR,2,2.11,0.05,0.08,0.11,11.37
+ENG-Premier League,2425,Ipswich Town,32,38,93,5,4,430,404,2,6,2425,Com VAR,9,2.45,0.24,0.05,0.16,11.32
+ENG-Premier League,2425,Leicester City,32,38,87,0,0,420,393,3,4,2425,Com VAR,0,2.29,0.00,0.08,0.11,11.05
+ENG-Premier League,2425,Liverpool,24,38,67,3,1,430,359,6,2,2425,Com VAR,4,1.76,0.11,0.16,0.05,11.32
+ENG-Premier League,2425,Manchester City,30,38,59,2,1,287,382,4,4,2425,Com VAR,3,1.55,0.08,0.11,0.11,7.55
+ENG-Premier League,2425,Manchester Utd,31,38,86,3,1,403,371,4,4,2425,Com VAR,4,2.26,0.11,0.11,0.11,10.61
+ENG-Premier League,2425,Newcastle Utd,24,38,68,1,0,394,450,4,2,2425,Com VAR,1,1.79,0.03,0.11,0.05,10.37
+ENG-Premier League,2425,Nott'ham Forest,23,38,90,2,2,401,419,3,3,2425,Com VAR,4,2.37,0.11,0.08,0.08,10.55
+ENG-Premier League,2425,Southampton,36,38,89,3,0,459,421,2,9,2425,Com VAR,3,2.34,0.08,0.05,0.24,12.08
+ENG-Premier League,2425,Tottenham,31,38,72,1,1,446,483,4,3,2425,Com VAR,2,1.89,0.05,0.11,0.08,11.74
+ENG-Premier League,2425,West Ham,27,38,82,3,2,443,397,2,3,2425,Com VAR,5,2.16,0.13,0.05,0.08,11.66
+ENG-Premier League,2425,Wolves,32,38,79,2,2,480,425,0,9,2425,Com VAR,4,2.08,0.11,0.00,0.24,12.63
